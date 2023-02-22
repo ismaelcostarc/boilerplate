@@ -1,0 +1,15 @@
+// Vitest Snapshot v1
+
+exports[`BaseButton > should be rendered correctly with props 1`] = `"Content"`;
+
+exports[`BaseButton > should be rendered correctly without props and slots 1`] = `"Content"`;
+
+exports[`BaseButton > should be rendered correctly without props and slots 2`] = `""`;
+
+exports[`BaseButton > should be rendered correctly without props and slots 3`] = `""`;
+
+exports[`BaseButton > should be rendered correctly without props or slots 1`] = `"Content"`;
+
+exports[`BaseButton > should be rendered correctly without props or slots 2`] = `""`;
+
+exports[`BaseButton > should be rendered correctly without props or slots 3`] = `""`;

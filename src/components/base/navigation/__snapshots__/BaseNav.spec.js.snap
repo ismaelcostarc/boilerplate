@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`BaseNav > should be rendered correctly with props 1`] = `"firstsecond"`;
+
+exports[`BaseNav > should be rendered correctly without props 1`] = `""`;
+
+exports[`BaseNav > should be rendered correctly without slots 1`] = `""`;
